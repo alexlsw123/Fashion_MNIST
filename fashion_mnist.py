@@ -46,7 +46,7 @@ padding = 'same', activation = 'relu', input_shape=(28,28,1)),
 
 # Optimizer with Adam
 model.compile(optimizer = 'adam', loss = 
-'sparse_categorical_crossentropy', metrics = ['accuracy’])
+'sparse_categorical_crossentropy', metrics = ['accuracy'])
 
 # Learn rate modification
 # Reduce learning rate when a metric has stopped improving
