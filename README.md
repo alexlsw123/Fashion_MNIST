@@ -23,3 +23,4 @@ I fitted the model with the batch_size of 32 and 50 epochs. I acknowledge that 5
 I next evaluated the model for the last result of the test accuracy and achieved **~94.6%** test accuracy (result attached). 
 
 Finally, I plotted the output of fitting the model for both train and test image for comparison.
+
